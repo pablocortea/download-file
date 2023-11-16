@@ -1,0 +1,14 @@
+# Ignorar archivos que terminan en .log
+*.log
+
+# Ignorar directorios llamados "node_modules"
+node_modules/
+
+# Ignorar un archivo específico
+config.json
+
+# Ignorar todos los archivos .zip
+*.zip
+
+# Ignorar todos los archivos en un directorio y sus subdirectorios
+logs/
